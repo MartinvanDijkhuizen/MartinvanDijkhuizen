@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinvanDijkhuizen
 - 👀 I’m interested in System Dynamics and Construction Management.
-- 🌱 I’m currently learning Case study research.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
